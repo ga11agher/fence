@@ -1,0 +1,42 @@
+html {
+  font-family: 'Playfair Display', serif;
+}
+
+header {
+  font-family: 'Playfair Display SC', serif;
+  font-size: 40px;
+  background-color: yellow;
+  margin-left: 60px;
+  padding-left: 100px;
+  padding-right: 100px;
+  width: max-content;
+}
+
+h2 {
+  text-align: center;
+}
+
+footer {
+  font-size: 20px;
+  text-indent: 40px;
+  background-color: yellow;
+  width: max-content;
+  margin-left: 60px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+body {
+  background-color: green;
+}
+
+.poem {
+  background-color: white;
+  font-size: 20px;
+  margin-left: 60px;
+  padding-left: 100px;
+  padding-right: 350px;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  width: max-content;
+}
